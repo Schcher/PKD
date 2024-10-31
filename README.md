@@ -11,8 +11,7 @@
 4.  Training
 5.  Evaluation
 6.  Usage Examples
-7.  Contributing
-8.  License
+7.  License
 ## Installation
 1.  Clone the repository:
 ```python
