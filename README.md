@@ -1,17 +1,18 @@
-1.  Installation
-2.  Dataset
-3.  Model Architectures
-    -   CSPDarkNet53 in YOLOv7
-    -   ResNet50 in Faster RCNN
-    -   PKD Framework Modules
-        -   Attention Distillation
-        -   Non - Local Module and Adaptive Feature Matching Module
-        -   Head Feature Distiller
-        -   Sliding Slice Cross Entropy
-4.  Training
-5.  Evaluation
-6.  Usage Examples
-7.  License
+
+- [Installation](#installation)
+- [Dataset](#dataset)
+- [Model Architectures](#model-architectures)
+  - [CSPDarkNet53 in YOLOv7](#cspdarknet53-in-yolov7)
+  - [ResNet50 in Faster RCNN](#resnet50-in-faster-rcnn)
+- [PKD Framework Modules](#pkd-framework-modules)
+  - [Attention Distillation](#attention-distillation)
+  - [Non-Local Module and Adaptive Feature Matching Module](#non--local-module-and-adaptive-feature-matching-module)
+  - [Head Feature Distiller](#head-feature-distiller)
+  - [Sliding Slice Cross Entropy](#sliding-slice-cross-entropy)
+- [Training](#training)
+- [Evaluation](#evaluation)
+- [Usage Examples](#usage-examples)
+- [License](#license)
 ## Installation
 1.  Clone the repository:
 ```python
