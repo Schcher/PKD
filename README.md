@@ -1,4 +1,7 @@
-
+# Tomato Leaf Disease Detection with PKD Framework
+## Description
+This GitHub repository contains the implementation of the Progressive Knowledge Distillation (PKD) framework for tomato leaf disease detection as described in the research paper "PKD: Progressive Knowledge Distillation Facilitating Tomato Leaf Disease Detection" by Hongmin Zhaoa and Jinzhou Xiea.
+The PKD framework aims to address the challenge of deploying complex deep learning models for tomato leaf disease detection on resource-constrained terminal devices. It achieves this by gradually transferring knowledge from ahoven!> There was an error generating the text for this section. Please try again. If you want to know more about README.md file formatting and content, you can refer to the following resources:
 - [Installation](#installation)
 - [Dataset](#dataset)
 - [Model Architectures](#model-architectures)
